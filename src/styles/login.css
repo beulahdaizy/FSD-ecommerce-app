@@ -1,0 +1,42 @@
+.auth__form {
+  background: var(--primary-color);
+  padding: 40px;
+  border-radius: 5px;
+}
+
+.auth__btn {
+  background: #fff !important;
+  color: var(--primary-color);
+  font-weight: 600;
+  padding: 0 10px 0 10px;
+  border-radius: 10px;
+}
+
+.auth__form p {
+  margin-top: 30px;
+}
+
+.auth__form p a {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.auth__form input [type="file"] {
+  color: #fff;
+  cursor: pointer;
+}
+
+.file__input {
+  color: #fff;
+}
+.demoCredential {
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+.profile__pic {
+  color: #fff !important;
+}
+.upload__pic {
+  display: flex;
+  gap: 10px;
+}

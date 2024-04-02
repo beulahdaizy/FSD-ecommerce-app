@@ -1,0 +1,15 @@
+.profile-image {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+p {
+  margin-bottom: 10px;
+}
+button {
+  background: #fff !important;
+  color: var(--primary-color);
+  font-weight: 600;
+  padding: 0 10px 0 10px;
+  border-radius: 10px;
+}
